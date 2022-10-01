@@ -1,0 +1,134 @@
+{
+    "name": "ChangeCharacter",
+    "maps": [
+        {
+            "name": "CharacterSelection",
+            "id": "e2bf82b1-8761-46bb-895b-12f12da051b0",
+            "actions": [
+                {
+                    "name": "FireKnight",
+                    "type": "Button",
+                    "id": "f325eda6-a1cb-4f56-aacb-21b8b5a5260a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "GroundMonk",
+                    "type": "Button",
+                    "id": "3ce0e977-2861-4844-8766-4fdd5954a585",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "LearArcher",
+                    "type": "Button",
+                    "id": "d838060f-496c-4a57-abc2-e5e8e74b744e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "MetalBladekeeper",
+                    "type": "Button",
+                    "id": "2fb22de0-883c-4fe2-8d43-31d935b1b95d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "WaterPriestess",
+                    "type": "Button",
+                    "id": "1c2934c4-8416-4e8e-94c0-30403b0d72c5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "WindHashashin",
+                    "type": "Button",
+                    "id": "8c05d043-4023-4efa-bd77-0214858ec5a5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c3a630c4-a94e-4844-a2ba-1aeedeaae002",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FireKnight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c44fa3a0-89a5-4cf7-8729-42ff0ef77396",
+                    "path": "<Keyboard>/2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GroundMonk",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "08fd4b3f-4668-4632-86c0-7e62f2fd419e",
+                    "path": "<Keyboard>/3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LearArcher",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "944f8254-d89f-4618-a80c-79926a90f221",
+                    "path": "<Keyboard>/4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MetalBladekeeper",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4b8da622-eaf6-4a94-b9c6-45a402dd56fa",
+                    "path": "<Keyboard>/5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "WaterPriestess",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "53c9b19a-0465-4340-8538-59e5d0f4bd72",
+                    "path": "<Keyboard>/6",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "WindHashashin",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
